@@ -1,1 +1,3 @@
-Hey
+#EXTM3U
+#EXTINF:-1 tvg-name="Star Maa HD" group-title="Entertainment" tvg-logo="https://i.ibb.co/Z1bTXYyW/1000139387.jpg",Star Maa HD
+https://live.dinesh29.com.np/stream/jiotvplus/maahd/master.m3u8
