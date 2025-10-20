@@ -1,9 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Star Maa HD" group-title="Entertainment" tvg-logo="https://i.ibb.co/Z1bTXYyW/1000139387.jpg",Star Maa HD
-https://live.dinesh29.com.np/stream/jiotvplus/maahd/master.m3u8
 
-#EXTINF:-1 tvg-name="Gemini Tv" group-title="Entertainment" tvg-logo="https://i.ibb.co/JRg8bZ7J/1000140036.jpg",Gemini Tv
-http://195.181.169.162/GEMINI_TV_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Relagion Channel" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png",Peace TV English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+
+#EXTINF:-1 group-title="Relagion Channel" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png",Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 
 #EXTINF:-1 tvg-name="Indian Yoga & Fitness Tv" group-title="Health Information" tvg-logo="https://i.ibb.co/8g9CH5gt/1000139319.jpg",Indian Yoga & Fitness Tv
 https://vglivessai.akamaized.net/ptnr-lg/title-Indian_Yoga_&_Wellness_TV_Telugu/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/f3d133e8-321f-4f63-acf3-860dcd461e78/43d52c8a-6bd6-4f35-ae71-24529a5bef11/0.m3u8
