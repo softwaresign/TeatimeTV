@@ -1,1 +1,7 @@
 #EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r+lvYC/Wq+3NnCyM33ma/Q", "kid":"Lsb6W3f/QiOjdsK5gDL7+A" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg" group-title="Sun NX",Gemini TV SD
+https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd
+
