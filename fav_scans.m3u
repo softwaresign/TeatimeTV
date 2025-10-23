@@ -59,6 +59,6 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8?hdn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1761309663~acl=%2f*~data=hdntl~hmac=07c7c4f9c1ba08c8e6a6005424280166b21702088537871b65fcbcc727212fe1
 
-#EXTINF:-1 tvg-id="Zee Telugu" tvg-name="" group-title="ZEE TELUGU" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png", ZEE TELUGU SD
+#EXTINF:-1 tvg-id="Zee-Telugu-HD" tvg-name="" group-title="Telugu" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png", ZEE TELUGU HD
 https://fifax2bd.xyz/OPPLEX/play.php?id=250844&|User-Agent=RANAPK
 
