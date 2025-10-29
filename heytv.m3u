@@ -34,9 +34,6 @@ http://servertvhub.site/zee5-main/index.php?id=0-9-zeetelugu&%7CUser-Agent=Mozil
 http://servertvhub.site/zee5-main/index.php?id=0-9-zeecinemalu&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
 
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r+lvYC/Wq+3NnCyM33ma/Q", "kid":"Lsb6W3f/QiOjdsK5gDL7+A" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Gemini TV" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg" group-title="Sun NX",Gemini SD
@@ -74,4 +71,26 @@ https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_in
 
 
 
+#EXTINF:-1 tvg-id="Entertainment" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png",Star Maa HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c4b78251e865fc2a23a000374c8e725:983ecd2ffe60cdcf2e5e76ae229a5cb8
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1761563293~exp=1761649693~acl=/*~hmac=75b9ab6bc6d919dc02b11b6faf702bba97ddfc3537c5e01e2d224389c691553d"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/output/index.mpd?__hdnea__=st=1761563293~exp=1761649693~acl=/*~hmac=75b9ab6bc6d919dc02b11b6faf702bba97ddfc3537c5e01e2d224389c691553d&xxx=%7Ccookie=__hdnea__=st=1761563293~exp=1761649693~acl=/*~hmac=75b9ab6bc6d919dc02b11b6faf702bba97ddfc3537c5e01e2d224389c691553d
+
+
+#EXTINF:-1 tvg-id="Entertainment" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",Star Maa Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1761563293~exp=1761649693~acl=/*~hmac=75b9ab6bc6d919dc02b11b6faf702bba97ddfc3537c5e01e2d224389c691553d"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd?__hdnea__=st=1761563293~exp=1761649693~acl=/*~hmac=75b9ab6bc6d919dc02b11b6faf702bba97ddfc3537c5e01e2d224389c691553d&xxx=%7Ccookie=__hdnea__=st=1761563293~exp=1761649693~acl=/*~hmac=75b9ab6bc6d919dc02b11b6faf702bba97ddfc3537c5e01e2d224389c691553d
+
+
+#EXTINF:-1 tvg-id="Entertainment" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Music.png",Star Maa Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80cfb1a6a4b251dd9b9ae92782a35917:b4cd88f5d71fe94993dd3476cdd63f33
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1761563293~exp=1761649693~acl=/*~hmac=75b9ab6bc6d919dc02b11b6faf702bba97ddfc3537c5e01e2d224389c691553d"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Music_BTS/output/index.mpd?__hdnea__=st=1761563293~exp=1761649693~acl=/*~hmac=75b9ab6bc6d919dc02b11b6faf702bba97ddfc3537c5e01e2d224389c691553d&xxx=%7Ccookie=__hdnea__=st=1761563293~exp=1761649693~acl=/*~hmac=75b9ab6bc6d919dc02b11b6faf702bba97ddfc3537c5e01e2d224389c691553d
 
