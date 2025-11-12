@@ -59,32 +59,15 @@ https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_
 https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
 
 
+#EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa HD
+http://87.255.35.150:18846
 
-#EXTINF:-1 tvg-id="1112" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png",Star Maa HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c4b78251e865fc2a23a000374c8e725:983ecd2ffe60cdcf2e5e76ae229a5cb8
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1761698709~exp=1761785109~acl=/*~hmac=270c3fb69eda68e0fef2fc1d70723e63e13dc098483a0893ab2f337713feb2da"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/output/index.mpd?__hdnea__=st=1761698709~exp=1761785109~acl=/*~hmac=270c3fb69eda68e0fef2fc1d70723e63e13dc098483a0893ab2f337713feb2da&xxx=%7Ccookie=__hdnea__=st=1761698709~exp=1761785109~acl=/*~hmac=270c3fb69eda68e0fef2fc1d70723e63e13dc098483a0893ab2f337713feb2da
+#EXTINF:-1 tvg-id="StarMaaMusic.in@SD" tvg-logo="https://i.imgur.com/vxP9L8p.png" group-title="Music",Star Maa Music SD
+http://87.255.35.150:18816
 
-
-#EXTINF:-1 tvg-id="1111" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",Star Maa Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1761698709~exp=1761785109~acl=/*~hmac=270c3fb69eda68e0fef2fc1d70723e63e13dc098483a0893ab2f337713feb2da"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd?__hdnea__=st=1761698709~exp=1761785109~acl=/*~hmac=270c3fb69eda68e0fef2fc1d70723e63e13dc098483a0893ab2f337713feb2da&xxx=%7Ccookie=__hdnea__=st=1761698709~exp=1761785109~acl=/*~hmac=270c3fb69eda68e0fef2fc1d70723e63e13dc098483a0893ab2f337713feb2da
+#EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-logo="https://i.imgur.com/1rRI95N.png" group-title="Movies",Star Maa Movies SD
+http://87.255.35.150:18817
 
 
-#EXTINF:-1 tvg-id="1129" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Music.png",Star Maa Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=80cfb1a6a4b251dd9b9ae92782a35917:b4cd88f5d71fe94993dd3476cdd63f33
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1761698709~exp=1761785109~acl=/*~hmac=270c3fb69eda68e0fef2fc1d70723e63e13dc098483a0893ab2f337713feb2da"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Music_BTS/output/index.mpd?__hdnea__=st=1761698709~exp=1761785109~acl=/*~hmac=270c3fb69eda68e0fef2fc1d70723e63e13dc098483a0893ab2f337713feb2da&xxx=%7Ccookie=__hdnea__=st=1761698709~exp=1761785109~acl=/*~hmac=270c3fb69eda68e0fef2fc1d70723e63e13dc098483a0893ab2f337713feb2da
-
-
-#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-name="Sony Sports Ten 4 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",Sony Sports Ten 4 HD
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1761611402~acl=/*~id=60035591409809058469473223851683~hmac=12d93cfa2c88f7961e356f3654cf015f4c97ce95dc158c01355b6317c62543db
 
 
