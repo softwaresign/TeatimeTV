@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/brazzers.png" group-title="XXX",Brazzers TV
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/dorcel.png" group-title="XXX",Dorcel HD
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Red Lips HD
+http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjU0Mzk1NjAsImlhdCI6MTc2NTM1MzE2MCwiY2lkIjo2LCJ1aWQiOjk3MzgxMzU0MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.ODmsYH4wtJLSGDtYEYDqdHq7mEvNqDxW5S5ct5AQrpc&offset=10
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Blue Hustler
+http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjU0Mzk1NjAsImlhdCI6MTc2NTM1MzE2MCwiY2lkIjo2LCJ1aWQiOjk3MzgxMzU0MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.ODmsYH4wtJLSGDtYEYDqdHq7mEvNqDxW5S5ct5AQrpc&offset=10
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/reality-kings.png" group-title="XXX",Reality Kings
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/digital-desire.png" group-title="XXX",Digital Desire HD
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Dusk TV
+http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/babes-tv.png" group-title="XXX",Babes TV HD
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+
+
 #EXTINF:-1  tvg-id="Fun" tvg-logo="" group-title="English", Secret Channel 1
 https://live.redtraffic.net/teen.m3u8
 
@@ -23,14 +49,113 @@ http://31.148.48.15:80/O-la-la/index.m3u8
 #EXTINF:-1  tvg-id="Fun" tvg-logo="" group-title="English", Exotica One
 http://31.148.48.15:80/O-la-la/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1  tvg-id="Fun" tvg-logo="" group-title="English",  Shalyun TV Classic 1
-https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-id="Fun" tvg-logo="" group-title="English",  Shalyun TV Classic 2
-https://fl1004.bozztv.com/ushba-mafia/index.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX", Shalun
+http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjU0Mzk1NjAsImlhdCI6MTc2NTM1MzE2MCwiY2lkIjo2LCJ1aWQiOjk3MzgxMzU0MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.ODmsYH4wtJLSGDtYEYDqdHq7mEvNqDxW5S5ct5AQrpc&offset=10
 
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Exxxotica HD
+http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjU0Mzk1NjAsImlhdCI6MTc2NTM1MzE2MCwiY2lkIjo2LCJ1aWQiOjk3MzgxMzU0MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.ODmsYH4wtJLSGDtYEYDqdHq7mEvNqDxW5S5ct5AQrpc&offset=10
 
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Erox
+http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjU0Mzk1NjAsImlhdCI6MTc2NTM1MzE2MCwiY2lkIjo2LCJ1aWQiOjk3MzgxMzU0MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.ODmsYH4wtJLSGDtYEYDqdHq7mEvNqDxW5S5ct5AQrpc&offset=10
 
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Brazzers TV Europe
+http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjU0Mzk1NjAsImlhdCI6MTc2NTM1MzE2MCwiY2lkIjo2LCJ1aWQiOjk3MzgxMzU0MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.ODmsYH4wtJLSGDtYEYDqdHq7mEvNqDxW5S5ct5AQrpc&offset=10
 
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Playboy TV
+http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjU0Mzk1NjAsImlhdCI6MTc2NTM1MzE2MCwiY2lkIjo2LCJ1aWQiOjk3MzgxMzU0MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.ODmsYH4wtJLSGDtYEYDqdHq7mEvNqDxW5S5ct5AQrpc&offset=10
 
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Babes TV
+http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjU0Mzk1NjAsImlhdCI6MTc2NTM1MzE2MCwiY2lkIjo2LCJ1aWQiOjk3MzgxMzU0MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.ODmsYH4wtJLSGDtYEYDqdHq7mEvNqDxW5S5ct5AQrpc&offset=10
 
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Russia Nights
+http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjU0Mzk1NjAsImlhdCI6MTc2NTM1MzE2MCwiY2lkIjo2LCJ1aWQiOjk3MzgxMzU0MSwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.ODmsYH4wtJLSGDtYEYDqdHq7mEvNqDxW5S5ct5AQrpc&offset=10
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Playboy HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Babestation
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/erox.png" group-title="XXX",Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eroxxxhd.png" group-title="XXX",Eroxxx HD
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/extasytv.png" group-title="XXX",Extasy TV
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/leo-tv-xxx.png" group-title="XXX",Leo TV
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Leo Gold TV
+http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Live Cams
+http://live.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",MILF
+http://live.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Big Dick
+http://live.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Big Tits
+http://live.adultiptv.net/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Fetish
+http://live.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Pornstar
+http://live.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Big Ass
+http://live.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Interracial
+http://live.adultiptv.net/interracial.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Latina
+http://live.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",POV
+http://live.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Blowjob
+http://live.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Teen
+http://live.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Hardcore
+http://live.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Cuckold
+http://live.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Threesome
+http://live.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Russian
+http://live.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Rough
+http://live.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Gangbang
+http://live.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Anal
+http://live.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Compilation
+http://live.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Brunette
+http://live.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Blonde
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="XXX",Asian
+http://live.adultiptv.net/asian.m3u8
