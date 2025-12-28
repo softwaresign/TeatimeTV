@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 , KPS TV
 https://live.kpsnetwork.in/kps/kps/chunklist_w314016044.m3u8
-#EXTINF:-1 , ChannelName2
-https://live.kpsnetwork.in/kps/kps/chunks.m3u8
+#EXTINF:-1 , PUBLIC TV
+https://publictvtelugu.co.in/publictv_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , ChannelName3
 https://live.kpsnetwork.in/kps/kps/chunkslist.m3u8
 #EXTINF:-1 , ChannelName
