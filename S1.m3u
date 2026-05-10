@@ -7,22 +7,12 @@ http://203.81.84.130/hls/mwd_serie/index.m3u8
 http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 ,[MM] Golden Land
 http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.imghippo.com/files/PKYK9834nDw.png",Sportv 1
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
-#EXTINF:-1 group-title="ðŸ”´SPORT HD" tvg-logo="https://i.imghippo.com/files/bnHW6108tBk.jpg",Sportv 2
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
 #EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png",News 1
 https://server1.streamssl.com/stream/news1.m3u8
-#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png",MONO29 (หนังพากย์ไทย)
-https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png",MONO29 (หนัง Soundtrack บรรยายไทย)
-https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/63sPMnRJ/IMG-1854.png",Cool Channel
-https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+
 #EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Nfz0ggHC/IMG-2079.png",Hi-Yah!
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/ydxhch1n/IMG-2218.png",KBS World
-http://mytv.dothome.co.kr/ch/catv/7.php
+
 #EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/5tNz40VZ/IMG-2795.png",Miramax Movies
 https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/RCLb94zt/IMG-2609.png",Rakuten  Action Movies
@@ -31,8 +21,7 @@ https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/CxSxcqXv/IMG-2291.png",Z Nation
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
-#EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/MpvvDsK3/IMG-2662.png",Shaun the Sheep & Friends
-https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
+
 #EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/XYpy8Bn8/IMG-2046.webp",Toonami
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/BvDfBkPC/IMG-2615.png",Siam News TV
