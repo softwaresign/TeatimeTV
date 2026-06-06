@@ -1,19 +1,8 @@
 #EXTM3U
-#EXTINF:-1,Test Video
-https://files.mobidrive.com/bb-prod-download/gs/ft-as-prod/5112dd4f-42c8-4232-a450-a6aed9c4da62?data=67c9133d-7593-41e5-9813-5a990bfdda0c&expires=1780751316775&token=hlOD5vElb8uT0ibvbq9BEY2Fc%2Fy8JBSdnec1hJLVCne6cej6jsD%2BM3PHiD%2BE4I3rSKCoIpsMbgb2MVSiWBRo8zOi4pqtSea6SQVxerPijQq0cLmINPi%2BualKo3NVRZxPPhRWu308N6mIzYbsv%2Br2lv70ifttklqwDDC0sx4xByVhVjgHkWVNsEH3Jf%2FwtFEjTSBYx3RNrBBShz61QwQ7FjEwdwxzmktvO4HGGOvWgxYopwSnH8J1YBZj6HFDJY0Z39C8zpninrDGsCUAId2wrb6eMswn5%2F8Wg%2FTrxJzQcfvkb3wJlaH5r1Od7YKaet2CNoIqz7pgiEWMZetgwSNLrg%3D%3D&did=85ad3b3e-645d-428a-b477-5619317c5ee2&aid=85ad3b3e-645d-428a-b477-5619317c5ee2&ct=application%2Fx-www-form-urlencoded&ext=mp4&app=com.mobisystems.web.mobidrive&fn=testVideo.mp4&sc=STANDARD&st=0&sz=12575914&r=f&h=t
+#EXTINF:-1, 29 Movie
+https://upfile04yx.uperbox.cc/6a22116edd3bf-29 (2026) Telugu HQ HDRip - x264 - AAC - 700MB - ESub.mkv?response-content-disposition=attachment; filename="29 (2026) Telugu HQ HDRip - x264 - AAC - 700MB - ESub.mkv"&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=61f26b6a0ca19c7868ecd7fae5f18d12/20260606/auto/s3/aws4_request&X-Amz-Date=20260606T182052Z&X-Amz-SignedHeaders=host&X-Amz-Expires=6000&X-Amz-Signature=6dc4941550fbaad444c487441162950f9e01a6227d94e8ee83c278e3296c608f
 
-#EXTINF:-1,Test Video2
-https://previews.dropbox.com/p/hls_master_playlist/ADA-RcRZyJHgjz1fCihal7qYv3_GGcLgltlSVIRGvMznpypP6Jy4GAPRhCJzaxuZ-PvkMz-SsYgsm0lp5V3oQXuuWJy5R6DvuEBS7GUmK4WGnEJx3b5xU_PrCgN5k_NL2yQObXtKHjhvpLTjl9AcZY4Pbjxl3Ktc-0ZLvYgY9Igvbs4vHtIOVIfievWBEpztIpCuBfWWMbJuYZfLtT50wAZ9zBwcjRQuJO6XSs_sHl3eUt5Q5cEMqgM0CCizYJ6vuPSeatDBvPKKYuET27BQkh8znAqA3yOuaRWuBx6MWTYTZA/p.m3u8
-
-#EXTINF:-1,Test Video3
-https://mobidrive.com/sharelink/v/77AQYFHOKKUuhczsqms6jH6kNiNpVlWtsTSPwW5u1Oj8
-
-#EXTINF:-1,Test Video4
-https://streamtesters.fast.io/api/current/workspace/4737807524783955858/storage/2ewhn2efmex2eytrueozmiylxlyrd/preview/hlsstream/read/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJvcCI6ImRsIiwic3ViIjoiMmV3aG4yZWZtZXgyZXl0cnVlb3ptaXlseGx5cmQtaGxzc3RyZWFtIiwiZXhwaXJlcyI6MTc4MDc1OTk2NSwiaWF0IjoxNzgwNzUyNzY1LCJpZCI6InFWMkxvRkppYWhxNnZqcnhNcURCWms3bGZRdzlhMzBKIn0.6aN-388cdJL9zCY2LZXHsT502E70LTZICsialLXFaS0rnGjZnthVumZgW_gL6g8o0ND498ANwYP7OvkxTHQGUg/file/video_1080p.m3u8
-
-#EXTINF:-1,Test Vide5
-https://streamtesters.fast.io/api/current/workspace/4737807524783955858/storage/2ewhn2efmex2eytrueozmiylxlyrd/preview/hlsstream/read/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJvcCI6ImRsIiwic3ViIjoiMmV3aG4yZWZtZXgyZXl0cnVlb3ptaXlseGx5cmQtaGxzc3RyZWFtIiwiZXhwaXJlcyI6MTc4MDc1OTk2NSwiaWF0IjoxNzgwNzUyNzY1LCJpZCI6InFWMkxvRkppYWhxNnZqcnhNcURCWms3bGZRdzlhMzBKIn0.6aN-388cdJL9zCY2LZXHsT502E70LTZICsialLXFaS0rnGjZnthVumZgW_gL6g8o0ND498ANwYP7OvkxTHQGUg/file/video_720p.m3u8
-
-#EXTINF:-1,Test Video6
-https://streamtesters.fast.io/api/current/workspace/4737807524783955858/storage/2ewhn2efmex2eytrueozmiylxlyrd/preview/hlsstream/read/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJvcCI6ImRsIiwic3ViIjoiMmV3aG4yZWZtZXgyZXl0cnVlb3ptaXlseGx5cmQtaGxzc3RyZWFtIiwiZXhwaXJlcyI6MTc4MDc1OTk2NSwiaWF0IjoxNzgwNzUyNzY1LCJpZCI6InFWMkxvRkppYWhxNnZqcnhNcURCWms3bGZRdzlhMzBKIn0.6aN-388cdJL9zCY2LZXHsT502E70LTZICsialLXFaS0rnGjZnthVumZgW_gL6g8o0ND498ANwYP7OvkxTHQGUg/file/video_480p.m3u8
-
+#EXTINF:-1, ugly story
+https://esync04.easysyncr.org/6a22657c613ed-Ugly%20Story%20%282026%29%20Telugu%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20700MB%20-%20ESub.mkv?response-content-disposition=attachment%3B%20filename%3D%22Ugly%20Story%20%282026%29%20Telugu%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20700MB%20-%20ESub.mkv%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=86a49cba67322ad1a44e05f9201c98be%2F20260606%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260606T185639Z&X-Amz-SignedHeaders=host&X-Amz-Expires=6000&X-Amz-Signature=40ae8ded2a200b4835741c47372d7756b7aeec5b542e36be63fc45d5701d5de6
+#EXTINF:-1, summar house
+https://upfile04yx.uperbox.cc/6a241761c8bc2-Summer%20House%20%282026%29%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%5BTel%20%2B%20Tam%20%2B%20Hin%20%2B%20Eng%5D%20-%20%28DD%2B5.1%20-%20192Kbps%29%20-%201.2GB%20-%20ESub.mkv?response-content-disposition=attachment%3B%20filename%3D%22Summer%20House%20%282026%29%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%5BTel%20%2B%20Tam%20%2B%20Hin%20%2B%20Eng%5D%20-%20%28DD%2B5.1%20-%20192Kbps%29%20-%201.2GB%20-%20ESub.mkv%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=61f26b6a0ca19c7868ecd7fae5f18d12%2F20260606%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260606T190945Z&X-Amz-SignedHeaders=host&X-Amz-Expires=6000&X-Amz-Signature=39d8ab97b91fc53f6144d0bbcc1879a38969c64b6dcfea45657541350e12df96
