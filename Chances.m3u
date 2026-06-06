@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/reality-kings.png" group-title="XXX",Reality Kings
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/erox.png" group-title="XXX",Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eroxxxhd.png" group-title="XXX",Eroxxx HD
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/dorcel.png" group-title="XXX",Dorcel TV
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
@@ -11,17 +14,14 @@ http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/babes-tv.png" group-title="XXX",babesTV
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/reality-kings.png" group-title="XXX",Reality Kings
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/brazzers.png" group-title="XXX",Brazzer Europe
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/digital-desire.png" group-title="XXX",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/erox.png" group-title="XXX",Erox HD
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eroxxxhd.png" group-title="XXX",Eroxxx HD
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-log.png" group-title="XXX",Leo TV Gold
 http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
