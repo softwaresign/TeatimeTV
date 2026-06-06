@@ -1,24 +1,18 @@
 #EXTM3U
+#EXTINF:-1 , TV7 AP
+https://server.streamwell.in/hls/7hills.m3u8
 #EXTINF:-1 , KPS TV
 https://live.kpsnetwork.in/kps/kps/chunklist_w314016044.m3u8
 #EXTINF:-1 , PUBLIC TV
 https://publictvtelugu.co.in/publictv_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , PUBLIC FOLK MUSIC TV
+#EXTINF:-1 , PUBLIC FOLK MUSIC
 https://publictvtelugu.co.in/publictvfolkmusic_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , METRO TV
 https://mercury.streambridge.link:8042/telugu/metrotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , MOJO TV
 https://colorsportscreen.com/freetv/stream.m3u8?id=978045f57601|Referer=https://colorsportscreen.com/freetv/stream.m3u8?id=978045f57601
-#EXTINF:-1 , TGN TV
-https://venus.streambridge.link:8047/telugu/tgn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , NCN TV
-https://cloud.sundaylive.co.in/ncnhd/ncnhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 , CVR HEALTH
 https://mumbai-edge.smartplaytv.in/CVRHealth/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Y CHANNEL
-https://amigofx.com:1936/ychannel/ychannel/chunklist_w2046841670.m3u8
-#EXTINF:-1 , 7 HILLS
-https://server.streamwell.in/hls/7hills.m3u8
 #EXTINF:-1 , CHITTOOR TV
 https://server.streamwell.in/hls/chittoortvhd.m3u8
 #EXTINF:-1 , SSLC MUSIC
@@ -27,24 +21,14 @@ https://mumbai-edge.smartplaytv.in/SSLCMusic/tracks-v1a1/mono.m3u8
 https://mumbai-edge.smartplaytv.in/SSLCMultiplex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , SHREYAS TV
 https://mumbai-edge.smartplaytv.in/ShreyasTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , SHREYAS MUSIC
-https://mumbai-edge.smartplaytv.in/ShreyasMusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , MASTI MUSIC
 https://mumbai-edge.smartplaytv.in/MastiMusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , BCT MUSIC
 https://mumbai-edge.smartplaytv.in/BCTMusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , LOCAL TV
 https://mumbai-edge.smartplaytv.in/LocalTVNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , STUDIO YUVA
-https://yuppftalive.akamaized.net/031025/studioyuva/hdntl=exp=1767040213~acl=%2f*~data=hdntl~hmac=add5c59a9a4fb8ebfc7196dcf66f70fe622056712dd7872aeab92c8e5b642aa6/chunks.m3u8
-#EXTINF:-1 , STUDIO YUVA 2
-https://yuppftalive.akamaized.net/031025/studioyuva/hdntl=exp=1767040248~acl=%2f*~data=hdntl~hmac=807f3c13a6d7bd12edbba9450c28abd337c945eb222142cd2aaa50df4ef27158/chunks.m3u8?ads.app_bundle&ads.app_store_url&ads.channel=7107&ads.channel_name=StudioYuva&ads.content_genre=ENT&ads.content_livestream=1&ads.language=TEL&ads.network_name=yupptv&ads.user=0
-#EXTINF:-1 , STUDIO YUVA 3
-https://colorsportscreen.com/freetv/stream.m3u8?id=8c4132bf2f05|Referer=https://colorsportscreen.com/freetv/stream.m3u8?id=8c4132bf2f05
 #EXTINF:-1 , TIRUMALA TV
 https://mumbai-edge.smartplaytv.in/TirumalaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , SIRI-4K TV
-https://mumbai-edge.smartplaytv.in/Siri4K/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , ChannelTV
 https://
 #EXTINF:-1 , ChannelTV
